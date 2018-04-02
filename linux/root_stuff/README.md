@@ -1,4 +1,5 @@
 # Root stuff
+## *.desktop stuff
 1. Go to Menue (Application Bar) » Preferences » Main Menue Editor
    - choose System Tools (or any other where you want to display the app)
    - Click New Item
