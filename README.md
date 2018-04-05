@@ -16,5 +16,5 @@ Maybe, you can find a LICENSE document in a folder. Pay attention to it if you d
 I have used [exiftool](https://www.sno.phy.queensu.ca/~phil/exiftool/) by Phil Harvey. He wrote:
 > This is free software; you can redistribute it and/or modify it under the same terms as [Perl itself](http://dev.perl.org/licenses/).
 
-under [License](https://www.sno.phy.queensu.ca/~phil/exiftool/#license) 
+under [License](https://www.sno.phy.queensu.ca/~phil/exiftool/#license).
 ###### [Top](#)
