@@ -7,4 +7,5 @@ The Batch file uses nircmd to set the default sound output to a specific device.
 3. Create a anyNameYouWant.lnk (or right-click » New » Link). The destination is `DEVICE:\path\to\nircmd\NIRCMD-toggleSoundOutput.BAT`, eg: `C:\programm-files\nircmd\NIRCMD`
 ## Configuration
 **WIN 7** In your task bar should be a red speaker symbol. Click on that and in the list choose something like _Audio Devices_ or _Playback Devices_. Then, look for your two audio devices. Right-click and rename them. Paste the new names in the .BAT file. Maybe these steps are the same on **Windows 8/ 10**.
+
 **WIN XP** (Classic view) Start » Control Panel » Sounds and Audio Devices \[I dont know more about how you change the name, the option should be anywhere there :P\]
