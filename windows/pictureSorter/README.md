@@ -2,8 +2,8 @@
 Sorts pictures by its exif-data
 ## Installation
 Download any (newest recomended) version:
-- German [BATCH](s-PS_DE_BATCH) | [EXEcutable](s-PS_DE_EXE)
-- English [BATCH](s-PS_GB_BATCH) | [EXEcutable](s-PS_EN_EXE)
+- German [BATCH](s-PS_DE_BATCH) | ~~[EXEcutable](s-PS_DE_EXE)~~ (comming soon...)
+- English ~~[BATCH](s-PS_GB_BATCH)~~ | ~~[EXEcutable](s-PS_EN_EXE)~~ (comming soon...)
 
 and save it anywhere on your hard disk (or usb stick, ...)
 
