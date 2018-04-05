@@ -13,7 +13,11 @@ In your task bar should be a red speaker symbol. Click on that and in the list c
 
 Edit the device names and the path in the .BAT file. If the .BAT file is in the same directory as the nircmd.exe, just type nircmd.exe
 ## Additional configuration
-You can create a shortcut (\*.lnk) to the batch file, give it a nice icon and even give it a shortcut key. Notice that you run the file for example with shortcut S - like sound - so if you press ALT GR + S its the same like STRG + ALT + S. If your working on a document and want to save maybe you will execute the batch. **You can use the .lnk files on the Desktop only.**
+You can create a shortcut (\*.lnk) to the batch file, give it a nice icon and even give it a shortcut key.
+
+You can give the file a shortcut key in the propertys, for example N - like notes. Execute the file by pressing STRG + ALT + N
+
+**Notice** that STRG + ALT equals ALT GR. So if you want to write an @ and a shortcut key is Q you will run the shortcut instead of writing an @ (On german keyboards you have to type ALT GR + Q to write an @ character). **You can use the .lnk files on the Desktop only.**
 
 This is the [.lnk](nircmd%20Sound%20Output%20%5BV%5D.lnk) I use. You have to change the destination in the propertys if you want to use it.
 ## How it works
