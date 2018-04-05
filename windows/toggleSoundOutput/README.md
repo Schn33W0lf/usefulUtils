@@ -17,5 +17,6 @@ If you run the batch, it checks for %OUTPUT1% in a file (defaultsounddevice.cook
 So, basically it changes the value of the cookie-file and the audio output.
 ## Troubles
 - If you change the default audio output manually, the cookie-file wont change. Just execute the batch twice and then everything is right
+## Footnotes
 ###### FN1 
 Its a simple text file, I thought cookie would be a apt name because of web-cookies which does the same job)
