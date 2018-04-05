@@ -7,7 +7,11 @@ Download the file and save it anywhere on your disk.
 
 No, thats all
 ## Additional configuration
-You can create a shortcut (\*.lnk) to the batch file, give it a nice icon and even give it a shortcut key. You can execute the file for example with shortcut N - like notes. So if you press ALT GR + N (its the same like STRG + ALT + N) you execute the file. But dont give them random shortcut keys: If you want to write an @ the file with the shortcut Q will be executed instead of writing an @ (the @ character is there on a german keyboard). **You can use the .lnk files on the Desktop only.**
+You can create a shortcut (\*.lnk) to the batch file, give it a nice icon and even give it a shortcut key.
+
+You can give the file a shortcut key in the propertys, for example N - like notes. Execute the file by pressing STRG + ALT + N
+
+**Notice** that STRG + ALT equals ALT GR. So if you want to write an @ and a shortcut key is Q you will run the shortcut instead of writing an @ (On german keyboards you have to type ALT GR + Q to write an @ character). **You can use the .lnk files on the Desktop only.**
 ## Additional infos
 You can toggle **every** executable file with that.
 
