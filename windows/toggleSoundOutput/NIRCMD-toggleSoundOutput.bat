@@ -2,7 +2,7 @@
 :::::::::::::::::::::::::::::::::::::SETTINGS::::::::::::::
 set OUTPUT1="OUTPUT1"
 set OUTPUT2="OUTPUT2"
-set PATH2NIRCMD="nircmd\"
+set PATH="nircmd.exe"
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 find /c /i "%OUTPUT1%" "defaultsounddevice.cookie"
 if errorlevel 1 goto false
@@ -11,5 +11,5 @@ nircmd.exe setdefaultsounddevice %OUTPUT2%
 GOTO exit
 :false
 echo %OUTPUT1%>defaultsounddevice.cookie
-%PATH2NIRCMD%nircmd.exe setdefaultsounddevice %OUTPUT1%
+%PATH% setdefaultsounddevice %OUTPUT1%
 :exit
