@@ -13,7 +13,7 @@ You can give the file a shortcut key in the propertys, for example N - like note
 
 **Notice** that STRG + ALT equals ALT GR. So if you want to write an @ and a shortcut key is Q you will run the shortcut instead of writing an @[\[1\]](#fn1). **You can use the .lnk files on the Desktop only.**
 
-This is the [.lnk](nircmd%20Sound%20Output%20%5BV%5D.lnk) I use. You have to change the destination in the propertys if you want to use it.
+This is the [.lnk](StickyNot%20-%20Toggle%20%5BN%5D.lnk) I use. You have to change the destination in the propertys if you want to use it.
 ## Additional infos
 You can toggle **every** executable file with that.
 
