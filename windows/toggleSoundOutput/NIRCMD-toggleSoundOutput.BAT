@@ -7,7 +7,7 @@ set PATH="nircmd.exe"
 find /c /i "%OUTPUT1%" "defaultsounddevice.cookie"
 if errorlevel 1 goto false
 echo %OUTPUT2%>defaultsounddevice.cookie
-nircmd.exe setdefaultsounddevice %OUTPUT2%
+%PATH% setdefaultsounddevice %OUTPUT2%
 GOTO exit
 :false
 echo %OUTPUT1%>defaultsounddevice.cookie
