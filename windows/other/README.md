@@ -13,3 +13,7 @@ pause>nul
 :loop
 goto loop
 ```
+## Special characters
+_Just an Info Script_
+### Code ([German, de_DE](specialCharacters-de_DE.BAT))
+### Code ([German, en_GB](specialCharacters-en_GB.BAT))
