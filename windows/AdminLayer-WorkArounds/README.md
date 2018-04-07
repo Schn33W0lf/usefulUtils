@@ -18,7 +18,7 @@ so use this carefully :P
 
 Im too lazy to write anything more so heres a short answer:
 > The Security of Using \_\_COMPAT_LAYER
-Setting \_\COMPAT_LAYER to RunAsInvoker does not actually give you administrator privileges if you
-do not have them; it simply prevents the UAC pop-up from appearing and then runs the program as
-whatever user called it. As such, it is safe to use this since you are not magically obtaining admin
-rights. \- [SomethingDark | Stackoverflow(https://stackoverflow.com/a/37881453)
+> Setting \_\COMPAT_LAYER to RunAsInvoker does not actually give you administrator privileges if you
+> do not have them; it simply prevents the UAC pop-up from appearing and then runs the program as
+> whatever user called it. As such, it is safe to use this since you are not magically obtaining admin
+> rights. - [SomethingDark | Stackoverflow](https://stackoverflow.com/a/37881453)
