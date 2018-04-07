@@ -7,14 +7,7 @@ You'll get:
 > Uhh im Windows and I'm stupid and I don't want you to do that because...
 ## Simple version - Code
 ```Batch
-@echo off
-echo This Tool dont allow your computer to go into the standby mode.
-echo.
-echo Press any key to start, close the programm to stop that.
-pause>nul
-@echo on
-:loop
-goto loop
+For %%A in (%1) do ren %1 .%%~nxA
 ```
 ## Extended version - Code
 ```Batch
