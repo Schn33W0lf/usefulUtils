@@ -15,8 +15,11 @@ start "" "%*"  /s /q
 > do not have them; it simply prevents the UAC pop-up from appearing and then runs the program as
 > whatever user called it. As such, it is safe to use this since you are not magically obtaining admin
 > rights. - [SomethingDark | Stackoverflow](https://stackoverflow.com/a/37881453)
+
 The Batch only prevent the Admin-Layer (or UAC pop-up), which asks you for a password.
-**So it doesnt give you any admin rights!** If you want to install something or access to areas/ directorys you dont have rights for, you get an error message. **OR** Maybe some executables like Win32DiskManager (e.g to write an image to a µSD Card for RPi, ...) will work because they use the popup to prevent users to start the programm (Because you could kill your hard drive/ USB sticks, ...).
+**So it doesnt give you any admin rights!** If you want to install something or access to areas/ directorys you dont have rights for, you get an error message. **OR** Maybe some executables like Win32DiskManager will work because they use the popup to prevent users to start the programm (Because you could kill your hard drive, ...).
 > With Great Power Comes Great Responsibility
 
 so use this carefully :P
+### Extended version
+_An extended version with GUI and such stuff comming soon_
