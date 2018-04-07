@@ -17,4 +17,4 @@ goto loop
 _Just an Info Script_<br>
 Copy the code, paste it in a text file and save it as '&lt;AnyStupidName&gt;.BAT'.
 ### Code ([German, de_DE](specialCharacters-de_DE.BAT))
-### Code (~~[German, en_GB](specialCharacters-en_GB.BAT)~~)
+### Code (~~[English, en_GB](specialCharacters-en_GB.BAT)~~)
