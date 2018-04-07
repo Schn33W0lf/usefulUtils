@@ -2,7 +2,7 @@
 _Here are some (Batch) files you can use to prevent the Admin-Layer (If you want to execute a file but you dont have permission)._
 ## Installation
 Copy the code and paste it in a text document.
-Save it as [AnyStupidName].bat (or .BAT, .cmd, ...)
+Save it as <AnyStupidName>.bat (or .BAT, .cmd, ...)
 ## Code:
 ### Simple version
 ```batch
@@ -21,4 +21,4 @@ Im too lazy to write anything more so heres a short answer:
 Setting \_\COMPAT_LAYER to RunAsInvoker does not actually give you administrator privileges if you
 do not have them; it simply prevents the UAC pop-up from appearing and then runs the program as
 whatever user called it. As such, it is safe to use this since you are not magically obtaining admin
-rights. - [https://stackoverflow.com/a/37881453](SomethingDark | Stackoverflow)
+rights. \- [SomethingDark | Stackoverflow(https://stackoverflow.com/a/37881453)
