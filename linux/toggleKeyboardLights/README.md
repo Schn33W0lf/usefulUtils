@@ -1,5 +1,5 @@
 # Installation Infos for any toggleKeyboardLights programm
-1. download the right keyboard bash file to `/opt/toggleKeyboardLights/[trademark/ manufacturer]/[trademark/ manufacturer]_toggleLights.sh`
+1. download the correct keyboard bash file to `/opt/toggleKeyboardLights/[trademark/ manufacturer]/[trademark/ manufacturer]_toggleLights.sh`
 2. (optional) You can download the png in the folder or just search your own.
 3. Go to Menue (Application Bar) » Preferences » Main Menue Editor
    -  choose Accessories (or any other where you want to display the app)
