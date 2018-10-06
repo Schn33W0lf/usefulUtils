@@ -1,0 +1,8 @@
+[Desktop Entry]
+Comment=toggle the background lights of the cmstorm devastator keyboard
+Terminal=false
+Name=cmstorm devastator toggleLights
+Exec=sh /opt/toggleKeyboardLights/cmstorm_devastator_toggleLights.sh
+Type=Application
+Categories=Accessories
+Icon=/opt/toggleKeyboardLights/cmstorm.png
