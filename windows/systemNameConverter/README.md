@@ -9,6 +9,10 @@ You'll get:
 ```Batch
 For %%A in (%1) do ren %1 .%%~nxA
 ```
+## Very simple version - Code
+```Batch
+ren %1 ".%~nx1"
+```
 ## Extended version - Code
 ```Batch
 @echo off
