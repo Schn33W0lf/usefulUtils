@@ -1,9 +1,15 @@
 #!/bin/bash
 
+# purposes:
+# This script achieves the same as if you type <Super (Windows Key)> + <Left|Right> in Microsoft Windows.
+
 # usage:
 # ./windowMgr.sh <r|l> <i>
 # arg1: align window right or left
 # arg2: align window on screen 0 or 1
+
+# installation
+# download the script and install xdotool (# apt-get install xdotool)
 
 # configuration:
 # under resolution settings, enter the resolution of your main screen (screen0X,Y),
