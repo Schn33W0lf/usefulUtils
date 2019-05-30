@@ -1,19 +1,20 @@
 #!/bin/bash
 
-# purposes:
-# This script achieves the same as if you type <Super (Windows Key)> + <Left|Right> in Microsoft Windows.
-
-# usage:
+# PURPOSES:
+# This script does the same as if you type <Super (Windows Key)> + <Left|Right> in
+# Microsoft Windows.
+# COMPATIBLITY:
+# debian 9 with lxde
+# USAGE:
 # ./windowMgr.sh <r|l> <i>
 # arg1: align window right or left
 # arg2: align window on screen 0 or 1
 
-# installation
+# INSTALLATION:
 # download the script and install xdotool (# apt-get install xdotool)
-
-# configuration:
-# under resolution settings, enter the resolution of your main screen (screen0X,Y),
-# your second screen (screen1X,Y) if you have one
+# CONFIGURATION:
+# under resolutionSettings, enter the resolution of your main screen (screen0X,Y),
+# your second screen (screen1X,Y) if you have one (use eg xrandr)
 # and the task bar (screen0T, screen1T).
 # in lxde go to Menu > Settings > Setup Hot Keys and select programs. create new actions,
 # configure Hotkey 1 and the command, save and exit.
@@ -23,7 +24,6 @@
 # bash ~/windowMgr.sh r 0          <Super>Right
 # bash ~/windowMgr.sh l 1          <Shift><Super>Left
 # bash ~/windowMgr.sh r 1          <Shift><Super>Right
-
 
 screen=0
 screen=$2
